@@ -1,1 +1,50 @@
-{"nodes":[{"id":"ef04f7a2-9944-4f1f-9dca-3b3671db9c7b","type":"statePreparationNode","position":{"x":450,"y":300},"data":{"label":"Encode Value","inputs":[],"children":[],"implementation":"","implementationType":"","uncomputeImplementationType":"","uncomputeImplementation":"","identifiers":["q666092"],"encodingType":"","bound":0,"size":"","outputIdentifier":""},"width":320,"height":373,"positionAbsolute":{"x":450,"y":300}}],"edges":[],"viewport":{"x":-7,"y":5,"zoom":1}}
+{
+  "metadata": {
+    "version": "1.0.0",
+    "name": "My Model",
+    "description": "This is a model.",
+    "author": "",
+    "id": "flow-1759410935352",
+    "timestamp": "2025-10-02T13:15:35.352Z"
+  },
+  "flow": {
+    "nodes": [
+      {
+        "id": "ef04f7a2-9944-4f1f-9dca-3b3671db9c7b",
+        "type": "statePreparationNode",
+        "position": {
+          "x": 450,
+          "y": 300
+        },
+        "data": {
+          "label": "Encode Value",
+          "inputs": [],
+          "children": [],
+          "implementation": "",
+          "implementationType": "",
+          "uncomputeImplementationType": "",
+          "uncomputeImplementation": "",
+          "identifiers": [
+            "q666092"
+          ],
+          "encodingType": "",
+          "bound": 0,
+          "size": "",
+          "outputIdentifier": ""
+        },
+        "width": 320,
+        "height": 373,
+        "positionAbsolute": {
+          "x": 450,
+          "y": 300
+        }
+      }
+    ],
+    "edges": [],
+    "viewport": {
+      "x": -7,
+      "y": 5,
+      "zoom": 1
+    }
+  }
+}
