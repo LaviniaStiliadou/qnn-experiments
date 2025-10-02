@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "name": "My Model",
+    "description": "This is a model.",
+    "author": "",
+    "id": "model-1759411311212",
+    "timestamp": "2025-10-02T13:21:51.567Z"
+  },
+  "flow": {
+    "nodes": [],
+    "edges": [],
+    "viewport": {
+      "x": 0,
+      "y": 0,
+      "zoom": 1
+    }
+  }
+}
